@@ -16,5 +16,5 @@ POC:
 5. Set up Git Branching: Create a new branch in you GitHub repo for testing, add new features and merge it.
 
 6. Write a shell script to monitor log: Create a script that monitors server log for errors and alerts you.
- 
+
 7.Automate static website deployment locally: Create a script that updates you server whenever changes are pushed.
