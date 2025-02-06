@@ -18,3 +18,17 @@ POC:
 6. Write a shell script to monitor log: Create a script that monitors server log for errors and alerts you.
 
 7.Automate static website deployment locally: Create a script that updates you server whenever changes are pushed.
+
+8. Set up a VM in Azure and launch via SSH.
+
+9. Host a static website in my VM that I created in Azure.
+
+10. Set up IAM roles in azure,i.e, RBAC also permissions. assign roles to your VM for allowing/denying specific actions.
+
+11. Creating a blob storage in azure for uploading a file and downloading a file.
+
+12. Setting up Azure Monitor for monitoring Storage account.
+
+13. Deploying a web application on my Cloud VM and enable firewall for VM.
+
+14. Use azure cli for creating storage account and in that create container for uploading files. Also start and stop ur VM in CLI.
