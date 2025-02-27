@@ -1,8 +1,6 @@
 # POCs
 Proof of concepts of Jan-Feb:
 
-Week 1 POC's:
-
 
 POC:
 1. Host a static website locally: Set up a local server (Apache or Ngnix) and host a simple HTML page.
@@ -32,3 +30,15 @@ POC:
 13. Deploying a web application on my Cloud VM and enable firewall for VM.
 
 14. Use azure cli for creating storage account and in that create container for uploading files. Also start and stop ur VM in CLI.
+
+15. Cloud CLI Mastery – Managed resources & automated tasks
+
+16. Auto-Scaling – Dynamic workload handling with scalable VMs
+
+17. Load Balancing – Efficient traffic distribution for high availability
+
+18. Backup & Restore – Snapshot-based disaster recovery
+
+19. Private Networking – Secure VPC setup with internal routing
+
+20. Bastion Host – Secure access to private cloud instances
